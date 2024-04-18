@@ -1,0 +1,12 @@
+Linux Distribution
+Linux distribution is an operating system that is made up of a collection of software based on Linux kernel or you can say distribution contains the Linux kernel and supporting libraries and software. And you can get Linux based operating system by downloading one of the Linux distributions and these distributions are available for different types of devices like embedded devices, personal computers, etc. Around 600 + Linux Distributions are available and some of the popular Linux distributions are: 
+    MX Linux
+    Manjaro
+    Linux Mint
+    elementary
+    Ubuntu
+    Debian
+    Solus
+    Fedora
+    openSUSE
+     Deepin

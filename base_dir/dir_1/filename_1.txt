@@ -1,0 +1,2 @@
+Grep is a Linux command-line tool that allows users to search files for a specified textual pattern. 
+When grep finds a match, it prints lines containing that pattern to the terminal
